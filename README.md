@@ -1,0 +1,1 @@
+# PyTorch-supported-compute-capability
