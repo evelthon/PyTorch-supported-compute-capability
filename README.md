@@ -175,4 +175,4 @@ Note: `cuobjdump` command must be available
 ``` wget -r --no-parent -A "torch-*cu*cp3*linux*.whl" -nd -c https://download.pytorch.org/whl/torch_stable.html  ```
 
 #### Attributions
-- https://discuss.pytorch.org/t/gpu-compute-capability-support-for-each-pytorch-version/62434/7
+- https://discuss.pytorch.org/t/gpu-compute-capability-support-for-each-pytorch-version/62434
