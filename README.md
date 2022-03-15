@@ -173,3 +173,6 @@ The steps followed are:
 Note: `cuobjdump` command must be available
 ### How to download wheel files
 ``` wget -r --no-parent -A "torch-*cu*cp3*linux*.whl" -nd -c https://download.pytorch.org/whl/torch_stable.html  ```
+
+#### Attributions
+- https://discuss.pytorch.org/t/gpu-compute-capability-support-for-each-pytorch-version/62434/7
