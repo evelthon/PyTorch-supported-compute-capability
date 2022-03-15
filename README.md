@@ -1,5 +1,5 @@
 # PyTorch-supported Nvidia compute capability
-
+License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## The outcome
 (Table is not sorted)
 
